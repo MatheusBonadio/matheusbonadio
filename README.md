@@ -3,11 +3,11 @@
 I’m a Software Engineer
 
 #### My recently tools
-📡 Back-end with .NET core and NodeJS
-🌎 Front-end Web with React
-📲 Front-end Mobile with React Native 
-🛠️ Typescript, C# and PHP
-🧰 And more...  
+📡 Back-end with .NET core and NodeJS <br />
+🌎 Front-end Web with React <br />
+📲 Front-end Mobile with React Native <br />
+🛠️ Typescript, C# and PHP <br />
+🧰 And more... <br />
 
 
 #### 💬 Find me elsewhere
