@@ -2,11 +2,11 @@
 
 I’m a Software Engineer
 
-#### My current tools 
-📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs  
-📡 Back-end with Nodejs  
-🛠️ Typescript  
+#### My recently tools
+📡 Back-end with .NET core and NodeJS
+🌎 Front-end Web with React
+📲 Front-end Mobile with React Native 
+🛠️ Typescript, C# and PHP
 🧰 And more...  
 
 
